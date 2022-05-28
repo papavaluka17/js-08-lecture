@@ -1,0 +1,23 @@
+{
+  "name": "js-08-lecture",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/papavaluka17/js-08-lecture.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/papavaluka17/js-08-lecture/issues"
+  },
+  "homepage": "https://github.com/papavaluka17/js-08-lecture#readme",
+  "dependencies": {
+    "moment": "^2.29.3"
+  }
+}
